@@ -1,6 +1,10 @@
 # Deep_learning_01_Introduction
 Introducti
 .
+# 
+
+
+
 
 
 شبکه‌های عصبی و یادگیری عمیق
